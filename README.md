@@ -1,4 +1,3 @@
-<hr data-start="174" data-end="177">
 <h1 data-start="179" data-end="209">🕹️ Sega Arcade XML Splitter</h1>
 <h2 data-start="211" data-end="228">🎯 Description</h2>
 <p data-start="230" data-end="619">Ce script Python (<code data-start="248" data-end="275">Extract_Multi-SEGA.py</code>) permet d’analyser un <strong data-start="298" data-end="326">fichier XML de type MAME</strong> (ou équivalent) et d’en extraire automatiquement toutes les entrées liées au matériel <strong data-start="413" data-end="421">SEGA</strong>.<br data-start="422" data-end="425">
